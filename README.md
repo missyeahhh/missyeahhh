@@ -2,7 +2,7 @@
 
 Product Quality Lead. Barcelona.
 
-**Ahora:** [Observatorio de chatbots de atención al cliente](https://github.com/missyeahhh/chatbot-observatory)
-Auditoría pública de bots de soporte con rúbricas versionadas: accesibilidad, patrones engañosos, veracidad operativa.
+**Now:** [Customer support chatbot observatory](https://github.com/missyeahhh/chatbot-observatory)
+Public audits of support bots against versioned rubrics: accessibility, deceptive patterns, operational truthfulness.
 
 [LinkedIn](https://www.linkedin.com/in/soldr)
