@@ -1,6 +1,6 @@
-### sol
+![sol, Product Quality Lead. Now: auditing customer support chatbots in public, against versioned rubrics.](banner.png)
 
-Product Quality Lead. Barcelona.
+### sol
 
 **Now:** [Customer support chatbot observatory](https://github.com/missyeahhh/chatbot-observatory)
 Public audits of support bots against versioned rubrics: accessibility, deceptive patterns, operational truthfulness.
